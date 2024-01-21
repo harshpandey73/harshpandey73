@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently studying B.tech in CSE IoT from Institute of Engineering and Management Kolkata
+- 📫 mail me: pandey73harsh@gmail.com
