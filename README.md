@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=03F7C3&center=true&random=false&width=435&height=60&lines=HARSH+PANDEY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=03F7C3&center=true&random=false&width=435&height=55&lines=HARSH+PANDEY)](https://git.io/typing-svg)
 - 🔭 Web Development and AI enthusiast
 - ⚡ Learning blockchain
 - 🌱 I’m currently studying B.tech in CSE IoT from Institute of Engineering and Management Kolkata
