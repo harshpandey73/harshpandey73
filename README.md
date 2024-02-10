@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshpandey73&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshpandey73&theme=blue-green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandey73&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandey73&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshpandey73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 
 
