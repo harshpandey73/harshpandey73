@@ -1,4 +1,4 @@
-### I am 👋
+### 👋 I am
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=03F7C3&center=true&random=false&width=435&height=55&lines=HARSH+PANDEY)](https://git.io/typing-svg)
 - 🔭 Web Development and AI enthusiast
 - ⚡ Learning blockchain
