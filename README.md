@@ -1,4 +1,4 @@
-### 👋 I am   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=03F7C3&multiline=true&random=false&width=435&height=45&lines=HARSH+PANDEY)](https://git.io/typing-svg)
+### 👋 I am   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=03F7C3&multiline=true&random=false&width=435&height=44&lines=HARSH+PANDEY)](https://git.io/typing-svg)
 - 🔭 Web Development and AI enthusiast
 - ⚡ Learning blockchain
 - 🌱 I’m currently studying B.tech in CSE IoT from Institute of Engineering and Management Kolkata
