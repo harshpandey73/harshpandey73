@@ -15,9 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandey73&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshpandey73&theme=blue-green&hide_border=false)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
