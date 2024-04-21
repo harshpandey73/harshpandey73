@@ -7,7 +7,9 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,nodejs,react,redux,tailwind,ts,vscode,c,cpp,figma,git,ps)](https://skillicons.dev)
 
-## 🌐 Socials: &nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshpandey73) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshunreal) 
+# 🌐 Connect with me: 
+<p align="center"><a href="https://linkedin.com/in/harsh3dev"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://x.com/harsh3dev"><img src="https://skillicons.dev/icons?i=twitter" /></a> </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshpandey73&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
